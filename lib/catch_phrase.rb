@@ -1,3 +1,4 @@
 def catch_phrase (phrase)
-  puts #{phrase}
+  phase="Heidi HO!"
+  puts phrase
 end
